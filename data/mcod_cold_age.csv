@@ -1,0 +1,681 @@
+"Notes","State","State Code","Ten-Year Age Groups","Ten-Year Age Groups Code",Deaths,Population,Crude Rate
+,"Alabama","01","< 1 year","1",0,1304472,Unreliable
+,"Alabama","01","1-4 years","1-4",Suppressed,5239031,Suppressed
+,"Alabama","01","5-14 years","5-14",0,13693414,Unreliable
+,"Alabama","01","15-24 years","15-24",Suppressed,14451900,Suppressed
+,"Alabama","01","25-34 years","25-34",15,13466085,Unreliable
+,"Alabama","01","35-44 years","35-44",30,13822569,0.2
+,"Alabama","01","45-54 years","45-54",52,14275601,0.4
+,"Alabama","01","55-64 years","55-64",68,12319456,0.6
+,"Alabama","01","65-74 years","65-74",66,8547293,0.8
+,"Alabama","01","75-84 years","75-84",84,4798445,1.8
+,"Alabama","01","85+ years","85+",63,1685900,3.7
+,"Alabama","01","Not Stated","NS",0,Not Applicable,Not Applicable
+,"Alaska","02","< 1 year","1",Suppressed,230681,Suppressed
+,"Alaska","02","1-4 years","1-4",Suppressed,899177,Suppressed
+,"Alaska","02","5-14 years","5-14",13,2269650,Unreliable
+,"Alaska","02","15-24 years","15-24",82,2277554,3.6
+,"Alaska","02","25-34 years","25-34",91,2258987,4.0
+,"Alaska","02","35-44 years","35-44",129,2160862,6.0
+,"Alaska","02","45-54 years","45-54",132,2221922,5.9
+,"Alaska","02","55-64 years","55-64",110,1694668,6.5
+,"Alaska","02","65-74 years","65-74",47,838673,5.6
+,"Alaska","02","75-84 years","75-84",25,343746,7.3
+,"Alaska","02","85+ years","85+",10,104964,Unreliable
+,"Alaska","02","Not Stated","NS",0,Not Applicable,Not Applicable
+,"Arizona","04","< 1 year","1",Suppressed,1903998,Suppressed
+,"Arizona","04","1-4 years","1-4",Suppressed,7618443,Suppressed
+,"Arizona","04","5-14 years","5-14",Suppressed,19115920,Suppressed
+,"Arizona","04","15-24 years","15-24",39,19352058,0.2
+,"Arizona","04","25-34 years","25-34",58,18981625,0.3
+,"Arizona","04","35-44 years","35-44",125,18160609,0.7
+,"Arizona","04","45-54 years","45-54",189,17319688,1.1
+,"Arizona","04","55-64 years","55-64",169,15147337,1.1
+,"Arizona","04","65-74 years","65-74",123,11559192,1.1
+,"Arizona","04","75-84 years","75-84",83,6616960,1.3
+,"Arizona","04","85+ years","85+",61,2303595,2.6
+,"Arizona","04","Not Stated","NS",Suppressed,Not Applicable,Not Applicable
+,"Arkansas","05","< 1 year","1",Suppressed,832800,Suppressed
+,"Arkansas","05","1-4 years","1-4",Suppressed,3348151,Suppressed
+,"Arkansas","05","5-14 years","5-14",0,8551356,Unreliable
+,"Arkansas","05","15-24 years","15-24",17,8738090,Unreliable
+,"Arkansas","05","25-34 years","25-34",20,8227200,0.2
+,"Arkansas","05","35-44 years","35-44",34,8259875,0.4
+,"Arkansas","05","45-54 years","45-54",47,8352862,0.6
+,"Arkansas","05","55-64 years","55-64",50,7371662,0.7
+,"Arkansas","05","65-74 years","65-74",31,5307330,0.6
+,"Arkansas","05","75-84 years","75-84",59,3050880,1.9
+,"Arkansas","05","85+ years","85+",57,1141611,5.0
+,"Arkansas","05","Not Stated","NS",Suppressed,Not Applicable,Not Applicable
+,"California","06","< 1 year","1",Suppressed,11038886,Suppressed
+,"California","06","1-4 years","1-4",Suppressed,43985800,Suppressed
+,"California","06","5-14 years","5-14",Suppressed,113052559,Suppressed
+,"California","06","15-24 years","15-24",54,117003180,0.0
+,"California","06","25-34 years","25-34",81,120825946,0.1
+,"California","06","35-44 years","35-44",164,116860689,0.1
+,"California","06","45-54 years","45-54",311,109403666,0.3
+,"California","06","55-64 years","55-64",355,85071882,0.4
+,"California","06","65-74 years","65-74",224,53940253,0.4
+,"California","06","75-84 years","75-84",227,31520449,0.7
+,"California","06","85+ years","85+",309,13002753,2.4
+,"California","06","Not Stated","NS",Suppressed,Not Applicable,Not Applicable
+,"Colorado","08","< 1 year","1",Suppressed,1451194,Suppressed
+,"Colorado","08","1-4 years","1-4",Suppressed,5799684,Suppressed
+,"Colorado","08","5-14 years","5-14",Suppressed,14732589,Suppressed
+,"Colorado","08","15-24 years","15-24",46,15216679,0.3
+,"Colorado","08","25-34 years","25-34",78,16541010,0.5
+,"Colorado","08","35-44 years","35-44",156,16062750,1.0
+,"Colorado","08","45-54 years","45-54",244,15411819,1.6
+,"Colorado","08","55-64 years","55-64",222,12294797,1.8
+,"Colorado","08","65-74 years","65-74",118,7474487,1.6
+,"Colorado","08","75-84 years","75-84",74,3885568,1.9
+,"Colorado","08","85+ years","85+",80,1518743,5.3
+,"Colorado","08","Not Stated","NS",0,Not Applicable,Not Applicable
+,"Connecticut","09","< 1 year","1",0,851577,Unreliable
+,"Connecticut","09","1-4 years","1-4",0,3574173,Unreliable
+,"Connecticut","09","5-14 years","5-14",0,10040192,Unreliable
+,"Connecticut","09","15-24 years","15-24",Suppressed,10232676,Suppressed
+,"Connecticut","09","25-34 years","25-34",16,9499612,Unreliable
+,"Connecticut","09","35-44 years","35-44",29,10930643,0.3
+,"Connecticut","09","45-54 years","45-54",47,11610463,0.4
+,"Connecticut","09","55-64 years","55-64",47,9420432,0.5
+,"Connecticut","09","65-74 years","65-74",41,5972822,0.7
+,"Connecticut","09","75-84 years","75-84",72,3792554,1.9
+,"Connecticut","09","85+ years","85+",125,1786298,7.0
+,"Connecticut","09","Not Stated","NS",0,Not Applicable,Not Applicable
+,"Delaware","10","< 1 year","1",0,240973,Unreliable
+,"Delaware","10","1-4 years","1-4",0,961603,Unreliable
+,"Delaware","10","5-14 years","5-14",0,2478787,Unreliable
+,"Delaware","10","15-24 years","15-24",Suppressed,2640100,Suppressed
+,"Delaware","10","25-34 years","25-34",Suppressed,2543347,Suppressed
+,"Delaware","10","35-44 years","35-44",Suppressed,2606663,Suppressed
+,"Delaware","10","45-54 years","45-54",15,2695141,Unreliable
+,"Delaware","10","55-64 years","55-64",15,2366994,Unreliable
+,"Delaware","10","65-74 years","65-74",13,1716467,Unreliable
+,"Delaware","10","75-84 years","75-84",28,943059,3.0
+,"Delaware","10","85+ years","85+",16,339107,Unreliable
+,"Delaware","10","Not Stated","NS",0,Not Applicable,Not Applicable
+,"District of Columbia","11","< 1 year","1",0,179493,Unreliable
+,"District of Columbia","11","1-4 years","1-4",0,633462,Unreliable
+,"District of Columbia","11","5-14 years","5-14",Suppressed,1313973,Suppressed
+,"District of Columbia","11","15-24 years","15-24",Suppressed,2060894,Suppressed
+,"District of Columbia","11","25-34 years","25-34",Suppressed,2822393,Suppressed
+,"District of Columbia","11","35-44 years","35-44",16,1983143,Unreliable
+,"District of Columbia","11","45-54 years","45-54",24,1663776,1.4
+,"District of Columbia","11","55-64 years","55-64",28,1374033,2.0
+,"District of Columbia","11","65-74 years","65-74",15,868766,Unreliable
+,"District of Columbia","11","75-84 years","75-84",20,510226,3.9
+,"District of Columbia","11","85+ years","85+",17,226490,Unreliable
+,"District of Columbia","11","Not Stated","NS",0,Not Applicable,Not Applicable
+,"Florida","12","< 1 year","1",Suppressed,4696946,Suppressed
+,"Florida","12","1-4 years","1-4",Suppressed,18768520,Suppressed
+,"Florida","12","5-14 years","5-14",Suppressed,48889241,Suppressed
+,"Florida","12","15-24 years","15-24",17,51708860,Unreliable
+,"Florida","12","25-34 years","25-34",18,52212050,Unreliable
+,"Florida","12","35-44 years","35-44",33,55079292,0.1
+,"Florida","12","45-54 years","45-54",58,56433068,0.1
+,"Florida","12","55-64 years","55-64",78,50164760,0.2
+,"Florida","12","65-74 years","65-74",67,40418130,0.2
+,"Florida","12","75-84 years","75-84",61,25594192,0.2
+,"Florida","12","85+ years","85+",78,9800360,0.8
+,"Florida","12","Not Stated","NS",0,Not Applicable,Not Applicable
+,"Georgia","13","< 1 year","1",Suppressed,2897557,Suppressed
+,"Georgia","13","1-4 years","1-4",0,11577520,Unreliable
+,"Georgia","13","5-14 years","5-14",Suppressed,29610478,Suppressed
+,"Georgia","13","15-24 years","15-24",20,29879828,0.1
+,"Georgia","13","25-34 years","25-34",37,29919763,0.1
+,"Georgia","13","35-44 years","35-44",60,30417393,0.2
+,"Georgia","13","45-54 years","45-54",121,28797558,0.4
+,"Georgia","13","55-64 years","55-64",165,22429603,0.7
+,"Georgia","13","65-74 years","65-74",106,14094094,0.8
+,"Georgia","13","75-84 years","75-84",106,7214444,1.5
+,"Georgia","13","85+ years","85+",74,2542774,2.9
+,"Georgia","13","Not Stated","NS",0,Not Applicable,Not Applicable
+,"Hawaii","15","< 1 year","1",0,388191,Unreliable
+,"Hawaii","15","1-4 years","1-4",0,1494910,Unreliable
+,"Hawaii","15","5-14 years","5-14",0,3655968,Unreliable
+,"Hawaii","15","15-24 years","15-24",Suppressed,3886040,Suppressed
+,"Hawaii","15","25-34 years","25-34",Suppressed,4131236,Suppressed
+,"Hawaii","15","35-44 years","35-44",0,3977237,Unreliable
+,"Hawaii","15","45-54 years","45-54",0,3991035,Unreliable
+,"Hawaii","15","55-64 years","55-64",Suppressed,3479771,Suppressed
+,"Hawaii","15","65-74 years","65-74",Suppressed,2399050,Suppressed
+,"Hawaii","15","75-84 years","75-84",Suppressed,1432794,Suppressed
+,"Hawaii","15","85+ years","85+",Suppressed,655060,Suppressed
+,"Hawaii","15","Not Stated","NS",0,Not Applicable,Not Applicable
+,"Idaho","16","< 1 year","1",Suppressed,492200,Suppressed
+,"Idaho","16","1-4 years","1-4",0,1978751,Unreliable
+,"Idaho","16","5-14 years","5-14",Suppressed,5097957,Suppressed
+,"Idaho","16","15-24 years","15-24",20,4933032,0.4
+,"Idaho","16","25-34 years","25-34",19,4450880,Unreliable
+,"Idaho","16","35-44 years","35-44",43,4381675,1.0
+,"Idaho","16","45-54 years","45-54",54,4320606,1.2
+,"Idaho","16","55-64 years","55-64",71,3745343,1.9
+,"Idaho","16","65-74 years","65-74",46,2561372,1.8
+,"Idaho","16","75-84 years","75-84",44,1397484,3.1
+,"Idaho","16","85+ years","85+",31,534711,5.8
+,"Idaho","16","Not Stated","NS",Suppressed,Not Applicable,Not Applicable
+,"Illinois","17","< 1 year","1",Suppressed,3595106,Suppressed
+,"Illinois","17","1-4 years","1-4",Suppressed,14546412,Suppressed
+,"Illinois","17","5-14 years","5-14",Suppressed,37902154,Suppressed
+,"Illinois","17","15-24 years","15-24",53,38700488,0.1
+,"Illinois","17","25-34 years","25-34",85,38977352,0.2
+,"Illinois","17","35-44 years","35-44",162,39059473,0.4
+,"Illinois","17","45-54 years","45-54",281,38402814,0.7
+,"Illinois","17","55-64 years","55-64",286,31039473,0.9
+,"Illinois","17","65-74 years","65-74",216,19926022,1.1
+,"Illinois","17","75-84 years","75-84",237,11991382,2.0
+,"Illinois","17","85+ years","85+",213,5092804,4.2
+,"Illinois","17","Not Stated","NS",0,Not Applicable,Not Applicable
+,"Indiana","18","< 1 year","1",Suppressed,1852760,Suppressed
+,"Indiana","18","1-4 years","1-4",Suppressed,7506307,Suppressed
+,"Indiana","18","5-14 years","5-14",Suppressed,19530238,Suppressed
+,"Indiana","18","15-24 years","15-24",29,20242048,0.1
+,"Indiana","18","25-34 years","25-34",59,18438915,0.3
+,"Indiana","18","35-44 years","35-44",101,19131002,0.5
+,"Indiana","18","45-54 years","45-54",133,19423095,0.7
+,"Indiana","18","55-64 years","55-64",126,16147087,0.8
+,"Indiana","18","65-74 years","65-74",96,10558720,0.9
+,"Indiana","18","75-84 years","75-84",155,6205068,2.5
+,"Indiana","18","85+ years","85+",172,2483017,6.9
+,"Indiana","18","Not Stated","NS",0,Not Applicable,Not Applicable
+,"Iowa","19","< 1 year","1",Suppressed,849150,Suppressed
+,"Iowa","19","1-4 years","1-4",Suppressed,3430008,Suppressed
+,"Iowa","19","5-14 years","5-14",Suppressed,8919695,Suppressed
+,"Iowa","19","15-24 years","15-24",30,9632151,0.3
+,"Iowa","19","25-34 years","25-34",26,8269088,0.3
+,"Iowa","19","35-44 years","35-44",41,8587721,0.5
+,"Iowa","19","45-54 years","45-54",75,9021031,0.8
+,"Iowa","19","55-64 years","55-64",84,7769885,1.1
+,"Iowa","19","65-74 years","65-74",59,5304265,1.1
+,"Iowa","19","75-84 years","75-84",73,3463112,2.1
+,"Iowa","19","85+ years","85+",94,1615102,5.8
+,"Iowa","19","Not Stated","NS",0,Not Applicable,Not Applicable
+,"Kansas","20","< 1 year","1",0,854338,Unreliable
+,"Kansas","20","1-4 years","1-4",Suppressed,3426413,Suppressed
+,"Kansas","20","5-14 years","5-14",Suppressed,8736825,Suppressed
+,"Kansas","20","15-24 years","15-24",16,9102395,Unreliable
+,"Kansas","20","25-34 years","25-34",14,8060194,Unreliable
+,"Kansas","20","35-44 years","35-44",26,8099612,0.3
+,"Kansas","20","45-54 years","45-54",39,8233230,0.5
+,"Kansas","20","55-64 years","55-64",50,6874335,0.7
+,"Kansas","20","65-74 years","65-74",46,4520618,1.0
+,"Kansas","20","75-84 years","75-84",53,2846423,1.9
+,"Kansas","20","85+ years","85+",46,1297158,3.5
+,"Kansas","20","Not Stated","NS",0,Not Applicable,Not Applicable
+,"Kentucky","21","< 1 year","1",Suppressed,1207545,Suppressed
+,"Kentucky","21","1-4 years","1-4",Suppressed,4829572,Suppressed
+,"Kentucky","21","5-14 years","5-14",Suppressed,12363927,Suppressed
+,"Kentucky","21","15-24 years","15-24",23,12911681,0.2
+,"Kentucky","21","25-34 years","25-34",44,12462103,0.4
+,"Kentucky","21","35-44 years","35-44",61,12937968,0.5
+,"Kentucky","21","45-54 years","45-54",94,13232682,0.7
+,"Kentucky","21","55-64 years","55-64",117,11227559,1.0
+,"Kentucky","21","65-74 years","65-74",90,7515489,1.2
+,"Kentucky","21","75-84 years","75-84",96,4167754,2.3
+,"Kentucky","21","85+ years","85+",103,1517896,6.8
+,"Kentucky","21","Not Stated","NS",Suppressed,Not Applicable,Not Applicable
+,"Louisiana","22","< 1 year","1",Suppressed,1371169,Suppressed
+,"Louisiana","22","1-4 years","1-4",Suppressed,5475869,Suppressed
+,"Louisiana","22","5-14 years","5-14",Suppressed,13839502,Suppressed
+,"Louisiana","22","15-24 years","15-24",Suppressed,14554388,Suppressed
+,"Louisiana","22","25-34 years","25-34",23,13767476,0.2
+,"Louisiana","22","35-44 years","35-44",30,13315065,0.2
+,"Louisiana","22","45-54 years","45-54",29,13497818,0.2
+,"Louisiana","22","55-64 years","55-64",54,11306073,0.5
+,"Louisiana","22","65-74 years","65-74",34,7386011,0.5
+,"Louisiana","22","75-84 years","75-84",38,4133551,0.9
+,"Louisiana","22","85+ years","85+",44,1489455,3.0
+,"Louisiana","22","Not Stated","NS",0,Not Applicable,Not Applicable
+,"Maine","23","< 1 year","1",0,290893,Unreliable
+,"Maine","23","1-4 years","1-4",Suppressed,1206342,Suppressed
+,"Maine","23","5-14 years","5-14",Suppressed,3423074,Suppressed
+,"Maine","23","15-24 years","15-24",17,3604911,Unreliable
+,"Maine","23","25-34 years","25-34",17,3339758,Unreliable
+,"Maine","23","35-44 years","35-44",30,3923483,0.8
+,"Maine","23","45-54 years","45-54",49,4442506,1.1
+,"Maine","23","55-64 years","55-64",50,3944243,1.3
+,"Maine","23","65-74 years","65-74",41,2687231,1.5
+,"Maine","23","75-84 years","75-84",55,1555392,3.5
+,"Maine","23","85+ years","85+",53,628899,8.4
+,"Maine","23","Not Stated","NS",0,Not Applicable,Not Applicable
+,"Maryland","24","< 1 year","1",Suppressed,1595368,Suppressed
+,"Maryland","24","1-4 years","1-4",Suppressed,6403398,Suppressed
+,"Maryland","24","5-14 years","5-14",Suppressed,16681834,Suppressed
+,"Maryland","24","15-24 years","15-24",38,16725453,0.2
+,"Maryland","24","25-34 years","25-34",81,17080209,0.5
+,"Maryland","24","35-44 years","35-44",121,18254782,0.7
+,"Maryland","24","45-54 years","45-54",246,18501634,1.3
+,"Maryland","24","55-64 years","55-64",222,14752271,1.5
+,"Maryland","24","65-74 years","65-74",184,9087898,2.0
+,"Maryland","24","75-84 years","75-84",149,5135700,2.9
+,"Maryland","24","85+ years","85+",112,2090089,5.4
+,"Maryland","24","Not Stated","NS",10,Not Applicable,Not Applicable
+,"Massachusetts","25","< 1 year","1",0,1630569,Unreliable
+,"Massachusetts","25","1-4 years","1-4",Suppressed,6568529,Suppressed
+,"Massachusetts","25","5-14 years","5-14",Suppressed,17596255,Suppressed
+,"Massachusetts","25","15-24 years","15-24",15,20029279,Unreliable
+,"Massachusetts","25","25-34 years","25-34",34,19830250,0.2
+,"Massachusetts","25","35-44 years","35-44",54,20370090,0.3
+,"Massachusetts","25","45-54 years","45-54",77,20892587,0.4
+,"Massachusetts","25","55-64 years","55-64",85,17014894,0.5
+,"Massachusetts","25","65-74 years","65-74",58,11009379,0.5
+,"Massachusetts","25","75-84 years","75-84",117,6868059,1.7
+,"Massachusetts","25","85+ years","85+",168,3111537,5.4
+,"Massachusetts","25","Not Stated","NS",Suppressed,Not Applicable,Not Applicable
+,"Michigan","26","< 1 year","1",Suppressed,2623666,Suppressed
+,"Michigan","26","1-4 years","1-4",Suppressed,10808313,Suppressed
+,"Michigan","26","5-14 years","5-14",Suppressed,29390017,Suppressed
+,"Michigan","26","15-24 years","15-24",49,30714433,0.2
+,"Michigan","26","25-34 years","25-34",79,27497823,0.3
+,"Michigan","26","35-44 years","35-44",140,29433103,0.5
+,"Michigan","26","45-54 years","45-54",293,31191816,0.9
+,"Michigan","26","55-64 years","55-64",294,26216534,1.1
+,"Michigan","26","65-74 years","65-74",212,17080715,1.2
+,"Michigan","26","75-84 years","75-84",253,10073906,2.5
+,"Michigan","26","85+ years","85+",261,4056713,6.4
+,"Michigan","26","Not Stated","NS",0,Not Applicable,Not Applicable
+,"Minnesota","27","< 1 year","1",Suppressed,1511809,Suppressed
+,"Minnesota","27","1-4 years","1-4",Suppressed,6104149,Suppressed
+,"Minnesota","27","5-14 years","5-14",Suppressed,15794322,Suppressed
+,"Minnesota","27","15-24 years","15-24",56,15941616,0.4
+,"Minnesota","27","25-34 years","25-34",70,15606163,0.4
+,"Minnesota","27","35-44 years","35-44",95,16079748,0.6
+,"Minnesota","27","45-54 years","45-54",150,16297869,0.9
+,"Minnesota","27","55-64 years","55-64",189,13275810,1.4
+,"Minnesota","27","65-74 years","65-74",131,8363923,1.6
+,"Minnesota","27","75-84 years","75-84",147,5059195,2.9
+,"Minnesota","27","85+ years","85+",125,2319732,5.4
+,"Minnesota","27","Not Stated","NS",0,Not Applicable,Not Applicable
+,"Mississippi","28","< 1 year","1",Suppressed,878956,Suppressed
+,"Mississippi","28","1-4 years","1-4",Suppressed,3532277,Suppressed
+,"Mississippi","28","5-14 years","5-14",Suppressed,9141395,Suppressed
+,"Mississippi","28","15-24 years","15-24",Suppressed,9549066,Suppressed
+,"Mississippi","28","25-34 years","25-34",Suppressed,8455858,Suppressed
+,"Mississippi","28","35-44 years","35-44",26,8486097,0.3
+,"Mississippi","28","45-54 years","45-54",37,8559588,0.4
+,"Mississippi","28","55-64 years","55-64",49,7266099,0.7
+,"Mississippi","28","65-74 years","65-74",48,4952761,1.0
+,"Mississippi","28","75-84 years","75-84",58,2768756,2.1
+,"Mississippi","28","85+ years","85+",62,1007706,6.2
+,"Mississippi","28","Not Stated","NS",0,Not Applicable,Not Applicable
+,"Missouri","29","< 1 year","1",Suppressed,1649063,Suppressed
+,"Missouri","29","1-4 years","1-4",Suppressed,6639710,Suppressed
+,"Missouri","29","5-14 years","5-14",Suppressed,17315289,Suppressed
+,"Missouri","29","15-24 years","15-24",22,18048762,0.1
+,"Missouri","29","25-34 years","25-34",43,16990963,0.3
+,"Missouri","29","35-44 years","35-44",83,17303198,0.5
+,"Missouri","29","45-54 years","45-54",113,17844740,0.6
+,"Missouri","29","55-64 years","55-64",139,15284979,0.9
+,"Missouri","29","65-74 years","65-74",83,10389713,0.8
+,"Missouri","29","75-84 years","75-84",99,6191016,1.6
+,"Missouri","29","85+ years","85+",122,2513452,4.9
+,"Missouri","29","Not Stated","NS",Suppressed,Not Applicable,Not Applicable
+,"Montana","30","< 1 year","1",Suppressed,259311,Suppressed
+,"Montana","30","1-4 years","1-4",0,1047142,Unreliable
+,"Montana","30","5-14 years","5-14",Suppressed,2764435,Suppressed
+,"Montana","30","15-24 years","15-24",39,3006466,1.3
+,"Montana","30","25-34 years","25-34",26,2621896,1.0
+,"Montana","30","35-44 years","35-44",58,2723222,2.1
+,"Montana","30","45-54 years","45-54",68,3040898,2.2
+,"Montana","30","55-64 years","55-64",72,2804628,2.6
+,"Montana","30","65-74 years","65-74",60,1896517,3.2
+,"Montana","30","75-84 years","75-84",55,1059200,5.2
+,"Montana","30","85+ years","85+",42,431272,9.7
+,"Montana","30","Not Stated","NS",0,Not Applicable,Not Applicable
+,"Nebraska","31","< 1 year","1",0,562042,Unreliable
+,"Nebraska","31","1-4 years","1-4",Suppressed,2243263,Suppressed
+,"Nebraska","31","5-14 years","5-14",0,5599545,Unreliable
+,"Nebraska","31","15-24 years","15-24",17,5803642,Unreliable
+,"Nebraska","31","25-34 years","25-34",13,5255056,Unreliable
+,"Nebraska","31","35-44 years","35-44",23,5217241,0.4
+,"Nebraska","31","45-54 years","45-54",48,5288588,0.9
+,"Nebraska","31","55-64 years","55-64",42,4438221,0.9
+,"Nebraska","31","65-74 years","65-74",33,2948178,1.1
+,"Nebraska","31","75-84 years","75-84",42,1869370,2.2
+,"Nebraska","31","85+ years","85+",43,852849,5.0
+,"Nebraska","31","Not Stated","NS",0,Not Applicable,Not Applicable
+,"Nevada","32","< 1 year","1",0,774079,Unreliable
+,"Nevada","32","1-4 years","1-4",0,3099094,Unreliable
+,"Nevada","32","5-14 years","5-14",Suppressed,7752334,Suppressed
+,"Nevada","32","15-24 years","15-24",Suppressed,7382497,Suppressed
+,"Nevada","32","25-34 years","25-34",14,8415750,Unreliable
+,"Nevada","32","35-44 years","35-44",29,8236918,0.4
+,"Nevada","32","45-54 years","45-54",63,7790395,0.8
+,"Nevada","32","55-64 years","55-64",60,6631798,0.9
+,"Nevada","32","65-74 years","65-74",47,4578090,1.0
+,"Nevada","32","75-84 years","75-84",37,2253811,1.6
+,"Nevada","32","85+ years","85+",29,673427,4.3
+,"Nevada","32","Not Stated","NS",Suppressed,Not Applicable,Not Applicable
+,"New Hampshire","33","< 1 year","1",0,296047,Unreliable
+,"New Hampshire","33","1-4 years","1-4",Suppressed,1243027,Suppressed
+,"New Hampshire","33","5-14 years","5-14",Suppressed,3581265,Suppressed
+,"New Hampshire","33","15-24 years","15-24",10,3823151,Unreliable
+,"New Hampshire","33","25-34 years","25-34",11,3401434,Unreliable
+,"New Hampshire","33","35-44 years","35-44",20,4069084,0.5
+,"New Hampshire","33","45-54 years","45-54",20,4505030,0.4
+,"New Hampshire","33","55-64 years","55-64",43,3730828,1.2
+,"New Hampshire","33","65-74 years","65-74",18,2323339,Unreliable
+,"New Hampshire","33","75-84 years","75-84",45,1286599,3.5
+,"New Hampshire","33","85+ years","85+",35,540288,6.5
+,"New Hampshire","33","Not Stated","NS",0,Not Applicable,Not Applicable
+,"New Jersey","34","< 1 year","1",Suppressed,2343426,Suppressed
+,"New Jersey","34","1-4 years","1-4",Suppressed,9592674,Suppressed
+,"New Jersey","34","5-14 years","5-14",Suppressed,25287545,Suppressed
+,"New Jersey","34","15-24 years","15-24",26,24238294,0.1
+,"New Jersey","34","25-34 years","25-34",35,25068592,0.1
+,"New Jersey","34","35-44 years","35-44",63,28042338,0.2
+,"New Jersey","34","45-54 years","45-54",109,28195411,0.4
+,"New Jersey","34","55-64 years","55-64",131,22437508,0.6
+,"New Jersey","34","65-74 years","65-74",92,14441682,0.6
+,"New Jersey","34","75-84 years","75-84",112,8955106,1.3
+,"New Jersey","34","85+ years","85+",200,3807233,5.3
+,"New Jersey","34","Not Stated","NS",Suppressed,Not Applicable,Not Applicable
+,"New Mexico","35","< 1 year","1",0,592857,Unreliable
+,"New Mexico","35","1-4 years","1-4",Suppressed,2376733,Suppressed
+,"New Mexico","35","5-14 years","5-14",Suppressed,6150469,Suppressed
+,"New Mexico","35","15-24 years","15-24",41,6289441,0.7
+,"New Mexico","35","25-34 years","25-34",72,5734120,1.3
+,"New Mexico","35","35-44 years","35-44",108,5654208,1.9
+,"New Mexico","35","45-54 years","45-54",176,5826792,3.0
+,"New Mexico","35","55-64 years","55-64",152,5146913,3.0
+,"New Mexico","35","65-74 years","65-74",94,3555819,2.6
+,"New Mexico","35","75-84 years","75-84",65,1944492,3.3
+,"New Mexico","35","85+ years","85+",66,706180,9.3
+,"New Mexico","35","Not Stated","NS",Suppressed,Not Applicable,Not Applicable
+,"New York","36","< 1 year","1",Suppressed,5239738,Suppressed
+,"New York","36","1-4 years","1-4",Suppressed,20626990,Suppressed
+,"New York","36","5-14 years","5-14",Suppressed,53283393,Suppressed
+,"New York","36","15-24 years","15-24",66,58076217,0.1
+,"New York","36","25-34 years","25-34",66,60245793,0.1
+,"New York","36","35-44 years","35-44",121,59609122,0.2
+,"New York","36","45-54 years","45-54",255,59567242,0.4
+,"New York","36","55-64 years","55-64",270,48954864,0.6
+,"New York","36","65-74 years","65-74",242,32125883,0.8
+,"New York","36","75-84 years","75-84",323,19622085,1.6
+,"New York","36","85+ years","85+",339,8499016,4.0
+,"New York","36","Not Stated","NS",Suppressed,Not Applicable,Not Applicable
+,"North Carolina","37","< 1 year","1",Suppressed,2636839,Suppressed
+,"North Carolina","37","1-4 years","1-4",Suppressed,10537877,Suppressed
+,"North Carolina","37","5-14 years","5-14",Suppressed,27040982,Suppressed
+,"North Carolina","37","15-24 years","15-24",21,28232975,0.1
+,"North Carolina","37","25-34 years","25-34",25,27875072,0.1
+,"North Carolina","37","35-44 years","35-44",61,28767210,0.2
+,"North Carolina","37","45-54 years","45-54",105,28419400,0.4
+,"North Carolina","37","55-64 years","55-64",110,23832803,0.5
+,"North Carolina","37","65-74 years","65-74",138,16265310,0.8
+,"North Carolina","37","75-84 years","75-84",147,8858415,1.7
+,"North Carolina","37","85+ years","85+",146,3215013,4.5
+,"North Carolina","37","Not Stated","NS",Suppressed,Not Applicable,Not Applicable
+,"North Dakota","38","< 1 year","1",0,201902,Unreliable
+,"North Dakota","38","1-4 years","1-4",0,794446,Unreliable
+,"North Dakota","38","5-14 years","5-14",Suppressed,1930142,Suppressed
+,"North Dakota","38","15-24 years","15-24",Suppressed,2446275,Suppressed
+,"North Dakota","38","25-34 years","25-34",21,2028475,1.0
+,"North Dakota","38","35-44 years","35-44",31,1877354,1.7
+,"North Dakota","38","45-54 years","45-54",35,1979682,1.8
+,"North Dakota","38","55-64 years","55-64",35,1701304,2.1
+,"North Dakota","38","65-74 years","65-74",30,1124026,2.7
+,"North Dakota","38","75-84 years","75-84",33,743171,4.4
+,"North Dakota","38","85+ years","85+",17,368050,Unreliable
+,"North Dakota","38","Not Stated","NS",0,Not Applicable,Not Applicable
+,"Ohio","39","< 1 year","1",Suppressed,3113766,Suppressed
+,"Ohio","39","1-4 years","1-4",Suppressed,12682760,Suppressed
+,"Ohio","39","5-14 years","5-14",Suppressed,33723461,Suppressed
+,"Ohio","39","15-24 years","15-24",39,34437682,0.1
+,"Ohio","39","25-34 years","25-34",77,32366563,0.2
+,"Ohio","39","35-44 years","35-44",122,33954418,0.4
+,"Ohio","39","45-54 years","45-54",182,35809454,0.5
+,"Ohio","39","55-64 years","55-64",207,30279433,0.7
+,"Ohio","39","65-74 years","65-74",168,20114535,0.8
+,"Ohio","39","75-84 years","75-84",248,12232425,2.0
+,"Ohio","39","85+ years","85+",232,4894532,4.7
+,"Ohio","39","Not Stated","NS",0,Not Applicable,Not Applicable
+,"Oklahoma","40","< 1 year","1",0,1121566,Unreliable
+,"Oklahoma","40","1-4 years","1-4",Suppressed,4472602,Suppressed
+,"Oklahoma","40","5-14 years","5-14",Suppressed,11262920,Suppressed
+,"Oklahoma","40","15-24 years","15-24",18,11803364,Unreliable
+,"Oklahoma","40","25-34 years","25-34",27,10937342,0.2
+,"Oklahoma","40","35-44 years","35-44",55,10654799,0.5
+,"Oklahoma","40","45-54 years","45-54",111,10729427,1.0
+,"Oklahoma","40","55-64 years","55-64",119,9280205,1.3
+,"Oklahoma","40","65-74 years","65-74",68,6407147,1.1
+,"Oklahoma","40","75-84 years","75-84",80,3712139,2.2
+,"Oklahoma","40","85+ years","85+",67,1389073,4.8
+,"Oklahoma","40","Not Stated","NS",0,Not Applicable,Not Applicable
+,"Oregon","41","< 1 year","1",Suppressed,1001584,Suppressed
+,"Oregon","41","1-4 years","1-4",Suppressed,4054896,Suppressed
+,"Oregon","41","5-14 years","5-14",Suppressed,10557184,Suppressed
+,"Oregon","41","15-24 years","15-24",21,11086850,0.2
+,"Oregon","41","25-34 years","25-34",45,11544852,0.4
+,"Oregon","41","35-44 years","35-44",67,11464977,0.6
+,"Oregon","41","45-54 years","45-54",108,11580793,0.9
+,"Oregon","41","55-64 years","55-64",99,10205035,1.0
+,"Oregon","41","65-74 years","65-74",89,6902009,1.3
+,"Oregon","41","75-84 years","75-84",79,3886494,2.0
+,"Oregon","41","85+ years","85+",67,1630481,4.1
+,"Oregon","41","Not Stated","NS",Suppressed,Not Applicable,Not Applicable
+,"Pennsylvania","42","< 1 year","1",Suppressed,3114570,Suppressed
+,"Pennsylvania","42","1-4 years","1-4",Suppressed,12683996,Suppressed
+,"Pennsylvania","42","5-14 years","5-14",Suppressed,34374271,Suppressed
+,"Pennsylvania","42","15-24 years","15-24",45,37170234,0.1
+,"Pennsylvania","42","25-34 years","25-34",86,34527137,0.2
+,"Pennsylvania","42","35-44 years","35-44",125,36805840,0.3
+,"Pennsylvania","42","45-54 years","45-54",229,39635269,0.6
+,"Pennsylvania","42","55-64 years","55-64",246,33938581,0.7
+,"Pennsylvania","42","65-74 years","65-74",264,23362553,1.1
+,"Pennsylvania","42","75-84 years","75-84",338,15221562,2.2
+,"Pennsylvania","42","85+ years","85+",403,6484487,6.2
+,"Pennsylvania","42","Not Stated","NS",Suppressed,Not Applicable,Not Applicable
+,"Rhode Island","44","< 1 year","1",0,252588,Unreliable
+,"Rhode Island","44","1-4 years","1-4",0,1032707,Unreliable
+,"Rhode Island","44","5-14 years","5-14",0,2797172,Unreliable
+,"Rhode Island","44","15-24 years","15-24",Suppressed,3414265,Suppressed
+,"Rhode Island","44","25-34 years","25-34",Suppressed,3003804,Suppressed
+,"Rhode Island","44","35-44 years","35-44",18,3158420,Unreliable
+,"Rhode Island","44","45-54 years","45-54",26,3323945,0.8
+,"Rhode Island","44","55-64 years","55-64",32,2749364,1.2
+,"Rhode Island","44","65-74 years","65-74",23,1790124,1.3
+,"Rhode Island","44","75-84 years","75-84",32,1178338,2.7
+,"Rhode Island","44","85+ years","85+",39,561037,7.0
+,"Rhode Island","44","Not Stated","NS",Suppressed,Not Applicable,Not Applicable
+,"South Carolina","45","< 1 year","1",Suppressed,1263972,Suppressed
+,"South Carolina","45","1-4 years","1-4",Suppressed,5049352,Suppressed
+,"South Carolina","45","5-14 years","5-14",0,13113718,Unreliable
+,"South Carolina","45","15-24 years","15-24",Suppressed,14025562,Suppressed
+,"South Carolina","45","25-34 years","25-34",21,13250380,0.2
+,"South Carolina","45","35-44 years","35-44",34,13422392,0.3
+,"South Carolina","45","45-54 years","45-54",78,13750275,0.6
+,"South Carolina","45","55-64 years","55-64",118,12161973,1.0
+,"South Carolina","45","65-74 years","65-74",94,8625564,1.1
+,"South Carolina","45","75-84 years","75-84",100,4481555,2.2
+,"South Carolina","45","85+ years","85+",99,1535087,6.4
+,"South Carolina","45","Not Stated","NS",0,Not Applicable,Not Applicable
+,"South Dakota","46","< 1 year","1",0,252568,Unreliable
+,"South Dakota","46","1-4 years","1-4",0,1003220,Unreliable
+,"South Dakota","46","5-14 years","5-14",Suppressed,2490638,Suppressed
+,"South Dakota","46","15-24 years","15-24",34,2586935,1.3
+,"South Dakota","46","25-34 years","25-34",21,2256869,0.9
+,"South Dakota","46","35-44 years","35-44",35,2240878,1.6
+,"South Dakota","46","45-54 years","45-54",54,2350296,2.3
+,"South Dakota","46","55-64 years","55-64",55,2060526,2.7
+,"South Dakota","46","65-74 years","65-74",23,1397442,1.6
+,"South Dakota","46","75-84 years","75-84",44,880338,5.0
+,"South Dakota","46","85+ years","85+",29,416871,7.0
+,"South Dakota","46","Not Stated","NS",0,Not Applicable,Not Applicable
+,"Tennessee","47","< 1 year","1",Suppressed,1742353,Suppressed
+,"Tennessee","47","1-4 years","1-4",Suppressed,6997707,Suppressed
+,"Tennessee","47","5-14 years","5-14",0,18089217,Unreliable
+,"Tennessee","47","15-24 years","15-24",14,18627783,Unreliable
+,"Tennessee","47","25-34 years","25-34",32,18624599,0.2
+,"Tennessee","47","35-44 years","35-44",52,18992890,0.3
+,"Tennessee","47","45-54 years","45-54",110,19235141,0.6
+,"Tennessee","47","55-64 years","55-64",115,16405247,0.7
+,"Tennessee","47","65-74 years","65-74",114,11157636,1.0
+,"Tennessee","47","75-84 years","75-84",117,6079853,1.9
+,"Tennessee","47","85+ years","85+",109,2194397,5.0
+,"Tennessee","47","Not Stated","NS",0,Not Applicable,Not Applicable
+,"Texas","48","< 1 year","1",Suppressed,8318398,Suppressed
+,"Texas","48","1-4 years","1-4",Suppressed,33026616,Suppressed
+,"Texas","48","5-14 years","5-14",Suppressed,82092335,Suppressed
+,"Texas","48","15-24 years","15-24",29,80835004,0.0
+,"Texas","48","25-34 years","25-34",47,80277044,0.1
+,"Texas","48","35-44 years","35-44",96,77705986,0.1
+,"Texas","48","45-54 years","45-54",156,71378092,0.2
+,"Texas","48","55-64 years","55-64",206,55073131,0.4
+,"Texas","48","65-74 years","65-74",154,34615428,0.4
+,"Texas","48","75-84 years","75-84",207,18710678,1.1
+,"Texas","48","85+ years","85+",211,6872102,3.1
+,"Texas","48","Not Stated","NS",Suppressed,Not Applicable,Not Applicable
+,"Utah","49","< 1 year","1",0,1088965,Unreliable
+,"Utah","49","1-4 years","1-4",Suppressed,4257140,Suppressed
+,"Utah","49","5-14 years","5-14",11,10151788,Unreliable
+,"Utah","49","15-24 years","15-24",30,10264595,0.3
+,"Utah","49","25-34 years","25-34",31,9091325,0.3
+,"Utah","49","35-44 years","35-44",52,7700429,0.7
+,"Utah","49","45-54 years","45-54",61,6457996,0.9
+,"Utah","49","55-64 years","55-64",54,5069913,1.1
+,"Utah","49","65-74 years","65-74",37,3250486,1.1
+,"Utah","49","75-84 years","75-84",35,1821834,1.9
+,"Utah","49","85+ years","85+",39,665928,5.9
+,"Utah","49","Not Stated","NS",0,Not Applicable,Not Applicable
+,"Vermont","50","< 1 year","1",0,133915,Unreliable
+,"Vermont","50","1-4 years","1-4",0,561757,Unreliable
+,"Vermont","50","5-14 years","5-14",Suppressed,1623491,Suppressed
+,"Vermont","50","15-24 years","15-24",Suppressed,1961940,Suppressed
+,"Vermont","50","25-34 years","25-34",10,1565828,Unreliable
+,"Vermont","50","35-44 years","35-44",Suppressed,1820066,Suppressed
+,"Vermont","50","45-54 years","45-54",18,2078926,Unreliable
+,"Vermont","50","55-64 years","55-64",19,1826092,Unreliable
+,"Vermont","50","65-74 years","65-74",24,1174767,2.0
+,"Vermont","50","75-84 years","75-84",19,653770,Unreliable
+,"Vermont","50","85+ years","85+",28,274260,10.2
+,"Vermont","50","Not Stated","NS",0,Not Applicable,Not Applicable
+,"Virginia","51","< 1 year","1",Suppressed,2200399,Suppressed
+,"Virginia","51","1-4 years","1-4",Suppressed,8781693,Suppressed
+,"Virginia","51","5-14 years","5-14",Suppressed,22396767,Suppressed
+,"Virginia","51","15-24 years","15-24",16,23987724,Unreliable
+,"Virginia","51","25-34 years","25-34",54,24165743,0.2
+,"Virginia","51","35-44 years","35-44",71,24981481,0.3
+,"Virginia","51","45-54 years","45-54",116,24867065,0.5
+,"Virginia","51","55-64 years","55-64",149,20093254,0.7
+,"Virginia","51","65-74 years","65-74",125,12801695,1.0
+,"Virginia","51","75-84 years","75-84",146,7023329,2.1
+,"Virginia","51","85+ years","85+",152,2647366,5.7
+,"Virginia","51","Not Stated","NS",Suppressed,Not Applicable,Not Applicable
+,"Washington","53","< 1 year","1",Suppressed,1886010,Suppressed
+,"Washington","53","1-4 years","1-4",Suppressed,7541814,Suppressed
+,"Washington","53","5-14 years","5-14",Suppressed,19300144,Suppressed
+,"Washington","53","15-24 years","15-24",39,19910243,0.2
+,"Washington","53","25-34 years","25-34",65,21071621,0.3
+,"Washington","53","35-44 years","35-44",100,20881687,0.5
+,"Washington","53","45-54 years","45-54",179,20610058,0.9
+,"Washington","53","55-64 years","55-64",192,17131581,1.1
+,"Washington","53","65-74 years","65-74",134,10827886,1.2
+,"Washington","53","75-84 years","75-84",126,5931388,2.1
+,"Washington","53","85+ years","85+",130,2477102,5.2
+,"Washington","53","Not Stated","NS",0,Not Applicable,Not Applicable
+,"West Virginia","54","< 1 year","1",0,444778,Unreliable
+,"West Virginia","54","1-4 years","1-4",Suppressed,1786293,Suppressed
+,"West Virginia","54","5-14 years","5-14",Suppressed,4721575,Suppressed
+,"West Virginia","54","15-24 years","15-24",19,5192644,Unreliable
+,"West Virginia","54","25-34 years","25-34",26,4851656,0.5
+,"West Virginia","54","35-44 years","35-44",46,5274402,0.9
+,"West Virginia","54","45-54 years","45-54",66,5797238,1.1
+,"West Virginia","54","55-64 years","55-64",64,5302148,1.2
+,"West Virginia","54","65-74 years","65-74",57,3802259,1.5
+,"West Virginia","54","75-84 years","75-84",82,2210956,3.7
+,"West Virginia","54","85+ years","85+",53,784617,6.8
+,"West Virginia","54","Not Stated","NS",0,Not Applicable,Not Applicable
+,"Wisconsin","55","< 1 year","1",0,1495723,Unreliable
+,"Wisconsin","55","1-4 years","1-4",Suppressed,6091601,Suppressed
+,"Wisconsin","55","5-14 years","5-14",11,16389933,Unreliable
+,"Wisconsin","55","15-24 years","15-24",48,17336722,0.3
+,"Wisconsin","55","25-34 years","25-34",66,15674147,0.4
+,"Wisconsin","55","35-44 years","35-44",116,16788335,0.7
+,"Wisconsin","55","45-54 years","45-54",168,17639438,1.0
+,"Wisconsin","55","55-64 years","55-64",198,14685869,1.3
+,"Wisconsin","55","65-74 years","65-74",158,9558283,1.7
+,"Wisconsin","55","75-84 years","75-84",191,5830197,3.3
+,"Wisconsin","55","85+ years","85+",184,2535788,7.3
+,"Wisconsin","55","Not Stated","NS",0,Not Applicable,Not Applicable
+,"Wyoming","56","< 1 year","1",0,157000,Unreliable
+,"Wyoming","56","1-4 years","1-4",Suppressed,628455,Suppressed
+,"Wyoming","56","5-14 years","5-14",Suppressed,1611966,Suppressed
+,"Wyoming","56","15-24 years","15-24",22,1716655,1.3
+,"Wyoming","56","25-34 years","25-34",21,1578085,1.3
+,"Wyoming","56","35-44 years","35-44",36,1558849,2.3
+,"Wyoming","56","45-54 years","45-54",46,1680754,2.7
+,"Wyoming","56","55-64 years","55-64",43,1483648,2.9
+,"Wyoming","56","65-74 years","65-74",24,931009,2.6
+,"Wyoming","56","75-84 years","75-84",25,497213,5.0
+,"Wyoming","56","85+ years","85+",22,191509,11.5
+,"Wyoming","56","Not Stated","NS",0,Not Applicable,Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T68 (Hypothermia); X31 (Exposure to excessive natural cold (hypothermia))"
+"Group By: State; Ten-Year Age Groups"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Oct 14, 2025 5:33:06 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Oct 14, 2025 5:33:06 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/mcd.html#Georgia-Reporting-Anomalies."
+"3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#New-Jersey-Reporting-Anomalies."
+"4. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#California-Reporting-Anomalies."
+"5. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"6. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"7. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated."
+"8. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1"
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures"
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1"
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012."
+"Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of"
+"July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"9. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"10. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."
