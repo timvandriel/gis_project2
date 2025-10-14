@@ -1,0 +1,19 @@
+Nathan - Near-uniform depth projections using lidar
+
+Ethan - Lower-income neighborhoods have less access to parks or green spaces in major population centers in the US.
+
+Alex - How does population density in WA affect high school enrollment?
+
+Theo - Paris / London modes of transportation, metros, busses, households owning vehicles. Areas of transportation deserts have different socioeconomic outcomes.
+
+Kendall - Areas in city limits with lower median income 
+
+Oliver - Criminal activity is more likely to occur in neighborhoods with less annual income and lower education degrees in LA
+
+Bryan - Park Access Equity. Estimate the share of residents within an 800m (0.5mi) walk of a park.
+
+Tim - Colder weather results in higher mortality rates than warmer weather
+
+Sara - Combine landslide activity in Yellowstone National Park with topography, lithology, and wildfire data to understand landslide occurrence patterns in the park.
+
+Lorn - Are there affordable places where I would want to live? (programming jobs)

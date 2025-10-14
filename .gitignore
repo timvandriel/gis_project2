@@ -1,3 +1,4 @@
 # Ignore large shapefiles and intermediaries
+.DS_Store
 data/counties/tl_2019_us_county.*
 data/intermediary/*
