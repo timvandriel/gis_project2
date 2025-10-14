@@ -1,0 +1,53 @@
+Notes,State,State Code,Deaths,Population,Crude Rate
+,Alabama,1,188,103604166,0.2
+,Alaska,2,14,15300884,Unreliable
+,Arizona,4,1408,138079425,1
+,Arkansas,5,195,63181817,0.3
+,California,6,935,815706063,0.1
+,Colorado,8,57,110389320,0.1
+,Connecticut,9,18,77711442,Unreliable
+,Delaware,10,17,19532241,Unreliable
+,District of Columbia,11,17,13636649,Unreliable
+,Florida,12,374,413765419,0.1
+,Georgia,13,213,209381012,0.1
+,Hawaii,15,20,29491292,0.1
+,Idaho,16,33,33894011,0.1
+,Illinois,17,312,279233480,0.1
+,Indiana,18,128,141518257,0.1
+,Iowa,19,55,66861208,0.1
+,Kansas,20,128,62051541,0.2
+,Kentucky,21,112,94374176,0.1
+,Louisiana,22,211,100136377,0.2
+,Maine,23,12,29046732,Unreliable
+,Maryland,24,183,126308636,0.1
+,Massachusetts,25,35,144921428,0
+,Michigan,26,99,219087039,0
+,Minnesota,27,72,116354336,0.1
+,Mississippi,28,179,64598559,0.3
+,Missouri,29,375,130170885,0.3
+,Montana,30,18,21654987,Unreliable
+,Nebraska,31,45,40077995,0.1
+,Nevada,32,413,57588193,0.7
+,New Hampshire,33,12,28800092,Unreliable
+,New Jersey,34,124,192409809,0.1
+,New Mexico,35,70,43978024,0.2
+,New York,36,314,425850343,0.1
+,North Carolina,37,197,205681896,0.1
+,North Dakota,38,Suppressed,15194827,Suppressed
+,Ohio,39,185,253609029,0.1
+,Oklahoma,40,225,81770584,0.3
+,Oregon,41,49,83915155,0.1
+,Pennsylvania,42,217,277318500,0.1
+,Rhode Island,44,11,23261764,Unreliable
+,South Carolina,45,179,100679830,0.2
+,South Dakota,46,27,17936581,0.2
+,Tennessee,47,214,138146823,0.2
+,Texas,48,1066,548904814,0.2
+,Utah,49,35,59820399,0.1
+,Vermont,50,12,13674812,Unreliable
+,Virginia,51,182,173946516,0.1
+,Washington,53,89,147569534,0.1
+,West Virginia,54,15,40168566,Unreliable
+,Wisconsin,55,111,124026036,0.1
+,Wyoming,56,Suppressed,12035143,Suppressed
+Total,,,9214,6746356647,0.1
